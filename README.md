@@ -1,9 +1,9 @@
 # Tools
 
-http://remix.ethereum.org/
+* [Remix Ethereum](http://remix.ethereum.org/)
+* MetaMask
 
-## MetaMask
-
+## General information 
 
 ## Smart Contract 1 - AssociateProfitSplitter.sol
 
@@ -12,6 +12,6 @@ http://remix.ethereum.org/
 ## Smart Contract 3 - DeferredEquityPlan
 
 ## Screenshots
-
+![AssociateProfitSplitter](AssociateProfitSplitter.png)
 
 ## Contributing
